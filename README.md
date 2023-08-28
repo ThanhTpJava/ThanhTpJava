@@ -21,7 +21,7 @@ Get in Touch
 You can connect with me through the following platforms:
 
 GitHub: @ThanhTpJava
-Email: tp.thanhjava.email@example.com
+Email: tp.thanhjava.email@.com
 Feel free to reach out if you want to discuss programming, Java, projects, or anything related. Let's connect and learn together!
 
 <!---
